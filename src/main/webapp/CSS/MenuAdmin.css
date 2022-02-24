@@ -1,0 +1,27 @@
+.menu ul{
+	list-style:none;
+	margin:0;	
+}
+
+.menu ul li{		
+	top:100px;	
+	padding: 15px;
+	
+	position:relative;
+	width:180px;
+	vertical-align:middle;
+	background-color:#34495E;
+	border: 2px solid #BDC3C7;
+	border-left: 8px solid #f37015;
+	border-right: 5px solid #f37015;
+}
+
+li:hover{
+	opacity: 1;
+	visibility: visible;
+}
+	
+.menu ul li a{		
+	color:#fff;
+	text-decoration:none;
+}
